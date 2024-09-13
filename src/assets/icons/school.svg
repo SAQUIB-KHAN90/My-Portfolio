@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47.5 47.5" id="school">
+  <defs>
+    <clipPath id="a">
+      <path d="M0 38h38V0H0v38Z"></path>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#a)" transform="matrix(1.25 0 0 -1.25 0 47.5)">
+    <path fill="#ffcc4d" d="M37 3a2 2 0 0 0-2-2H3a2 2 0 0 0-2 2v19a2 2 0 0 0 2 2h32a2 2 0 0 0 2-2V3Z"></path>
+    <path fill="#6d6e71" d="M35 24H3a2 2 0 0 1-2-2h36a2 2 0 0 1-2 2"></path>
+    <path fill="#3b88c3" d="M35 9H3v4h32V9zm0 6H3v4h32v-4zm0-12H3v4h32V3z"></path>
+    <path fill="#ffcc4d" d="M31 2h-2v18h2V2z"></path>
+    <path fill="#ffe8b6" d="M23 37H7a2 2 0 0 1-2-2V1h20v34a2 2 0 0 1-2 2"></path>
+    <path fill="#808285" d="M23 37H7a2 2 0 0 1-2-2h20a2 2 0 0 1-2 2"></path>
+    <path fill="#55acee" d="M23 15H7v4h16v-4zm0-6H7v4h16V9zm0-6H7v4h16V3z"></path>
+    <path fill="#ffe8b6" d="M13 1h-2v29h2V1zm6 0h-2v29h2V1z"></path>
+    <path fill="#269" d="M17 1h-4v6h4V1z"></path>
+    <path fill="#a7a9ac" d="M21 28a6 6 0 0 0-12 0 6 6 0 0 0 12 0"></path>
+    <path fill="#e6e7e8" d="M19 28a4 4 0 1 0-8 0 4 4 0 0 0 8 0"></path>
+    <path fill="#a0041e" d="M18 27h-3a1 1 0 0 0-1 1v5a1 1 0 0 0 2 0v-4h2a1 1 0 0 0 0-2"></path>
+  </g>
+</svg>
