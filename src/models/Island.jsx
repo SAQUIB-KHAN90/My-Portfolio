@@ -58,8 +58,6 @@ const Island = ({ isRotating, setIsRotating, setCurrentStage, ...props }) => {
   };
 
   const handleTouchStart = (e) => {
-    e.stopPropagation();
-    e.preventDefault();
     setIsRotating(true);
 
     const clientX = e.touches ? e.touches[0].clientX : e.clientX;
@@ -67,15 +65,10 @@ const Island = ({ isRotating, setIsRotating, setCurrentStage, ...props }) => {
   };
 
   const handleTouchEnd = (e) => {
-    e.stopPropagation();
-    e.preventDefault();
     setIsRotating(false);
   };
 
   const handleTouchMove = (e) => {
-    e.stopPropagation();
-    e.preventDefault();
-
     if (isRotating) {
       const clientX = e.touches ? e.touches[0].clientX : e.clientX;
       const delta = (clientX - lastX.current) / viewport.width;
