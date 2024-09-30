@@ -275,7 +275,7 @@ export const projects = [
     name: "Real-Estate Application",
     description:
       "Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.",
-    link: "",
+    link: "https://home-nest-a-e-state-webapp.vercel.app/",
   },
   {
     iconUrl: Gym,
