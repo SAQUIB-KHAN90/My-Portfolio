@@ -84,21 +84,7 @@ export const skills = [
     name: "Redux",
     type: "State Management",
   },
-  {
-    imageUrl: nodejs,
-    name: "NodeJs",
-    type: "backend",
-  },
-  {
-    imageUrl: express,
-    name: "ExpressJs",
-    type: "backend",
-  },
-  {
-    imageUrl: mongodb,
-    name: "MongpDB",
-    type: "database",
-  },
+
   {
     imageUrl: git,
     name: "Git",
