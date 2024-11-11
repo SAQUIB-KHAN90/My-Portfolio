@@ -33,6 +33,9 @@ import {
   House,
   Gym,
   Movie,
+  nodejs,
+  express,
+  mongodb,
 } from "../assets/icons";
 
 export const skills = [
@@ -80,6 +83,21 @@ export const skills = [
     imageUrl: redux,
     name: "Redux",
     type: "State Management",
+  },
+  {
+    imageUrl: nodejs,
+    name: "NodeJs",
+    type: "backend",
+  },
+  {
+    imageUrl: express,
+    name: "ExpressJs",
+    type: "backend",
+  },
+  {
+    imageUrl: mongodb,
+    name: "MongpDB",
+    type: "database",
   },
   {
     imageUrl: git,

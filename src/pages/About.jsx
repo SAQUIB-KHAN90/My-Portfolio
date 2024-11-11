@@ -22,14 +22,16 @@ const About = () => {
       </h1>
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          Front-End Developer | Eager to Innovate & Create <br />I am a
-          dedicated front-end developer passionate about building intuitive,
-          visually appealing, and accessible user interfaces. My journey so far
-          has been filled with hands-on projects where I’ve focused on creating
-          seamless digital experiences. Although I’m early in my career, I’m
-          driven to learn, adapt, and contribute to meaningful projects while
-          continuously improving my craft. I’m excited to collaborate and bring
-          fresh ideas to the table.
+          As a passionate and driven full stack developer, I specialize in
+          creating robust, user-centric web applications. With expertise in
+          front-end frameworks like React.js and backend technologies like
+          Node.js, I build seamless and scalable solutions from concept to
+          deployment. My skills include JavaScript, Next.js, CSS, and database
+          management, along with a solid understanding of UX/UI principles. I am
+          committed to continuous learning, have experience working in agile
+          environments, and thrive on solving complex problems. My goal is to
+          deliver impactful, high-quality applications that enhance user
+          experiences..
         </p>
       </div>
       <div className="py-10 flex flex-col">
@@ -58,7 +60,7 @@ const About = () => {
             equipped me with both theoretical knowledge and practical exposure
             to coding and problem-solving. During this time, I actively
             participated in projects and learning opportunities that honed my
-            interest in front-end development and prepared me to contribute
+            interest in full-stack development and prepared me to contribute
             effectively to real-world applications.
           </p>
         </div>
