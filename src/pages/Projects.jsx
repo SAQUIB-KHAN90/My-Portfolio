@@ -15,14 +15,15 @@ const Projects = () => {
       </h1>
 
       <p className="text-slate-500 mt-2 leading-relaxed">
-        As a fresher front-end developer, I have worked on several responsive
+        As a full stack developer, I have worked on multiple responsive
         projects, including an electronics e-commerce website, a school
         management platform, a movie description app, a real estate rental app,
-        a gym web app, and a landing page for an AI company. Using React and
-        Tailwind CSS, I focus on creating seamless user experiences with dynamic
-        features, clean interfaces, and efficient functionality. These projects
-        reflect my eagerness to learn, ability to adapt to new technologies, and
-        passion for developing innovative solutions.
+        a gym web app, and a landing page for an AI company. Leveraging
+        technologies like React, Tailwind CSS, and Node.js, I focus on creating
+        seamless user experiences with dynamic features, clean interfaces, and
+        efficient functionality. These projects showcase my eagerness to learn,
+        adaptability to new technologies, and passion for developing innovative
+        solutions.
       </p>
 
       <div className="flex flex-wrap my-20 gap-16">
